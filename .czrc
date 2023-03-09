@@ -1,0 +1,16 @@
+{
+  "path": "node_modules/cz-git",
+  "alias": {
+    ":": "docs: update posts",
+    "f": "docs: fix typos",
+    "r": "docs: update README",
+    "b": "build: bump dependencies",
+    "s": "style: update code format",
+    "a": "chore(theme): update page theme",
+    "i": "chore: initial commit",
+    "c": "chore: update config"
+  },
+  "scopes": ["posts", "theme"],
+  "skipQuestions": ["body", "breaking", "footerPrefix", "footer"],
+  "customScopesAlign": "top"
+}
