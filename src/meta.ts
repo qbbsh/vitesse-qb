@@ -8,6 +8,7 @@ export const lang = 'en'
 /** social links */
 export const ogImg = `${site}/logo.png`
 export const github = 'https://github.com/qbbsh/vitesse-qb'
+export const sponsor = 'https://github.com/sponsors/Zhengqbbb'
 export const email = 'zhengqbbb@gmail.com'
 
 /** application info */
